@@ -48,7 +48,10 @@ This is the Curriculum for "Full Stack Developer Roadmap in 12 Months"
 
 ### --Week 13 to 17 - DSA IN JAVASCRIPT
 
-
+##### JavaScript Algorithms (Codevolution) - https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP
+##### DS & Algorithms - https://www.youtube.com/watch?v=LNKqOKtKCpQ&list=PL_HlKez9XCSOi5thYDzipbJ2pEdzop7vx
+##### (Article) JavaScript Algorithms and Data Structures (FreeCodeCamp) - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+##### Learn Data Structures with Javascript (GeeksforGeeks) - https://www.geeksforgeeks.org/learn-data-structures-with-javascript-dsa-tutorial/
 
 ### -- Week 18 to 24 (1.5 Months) - React & React Projects
 
@@ -71,6 +74,23 @@ This is the Curriculum for "Full Stack Developer Roadmap in 12 Months"
 ##### Developing Restful APIs using Node.js & Express - https://www.youtube.com/watch?v=0YlbMep5xi4
 ##### Node Express MongoDB Real-World Project - https://www.youtube.com/watch?v=_ee38nL13mE
 
-### -- Week 37 to 43 - MONGODB or MYSQL or Postgres SQL - ATLEAST 2-3 PROJECTS (Choose One)
+### -- Week 37 to 43 - MONGODB or MYSQL or PostgreSQL - ATLEAST 2-3 PROJECTS (Choose One)
 
-#####
+##### Complete MongoDB Tutorial (The Net Ninja) - https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
+##### MongoDB Tutorial (Code with Harry) - https://www.youtube.com/watch?v=J6mDkcqU_ZE
+##### W3Schools MongoDB - https://www.w3schools.com/mongodb/
+##### Learn PostgreSQL Tutorial (FreecodeCamp) - https://www.youtube.com/watch?v=qw--VYLpxG4
+##### Build and DEPLOY an Authenticated TO DO APP! PostGres + React + Node.js + Kinsta - https://www.youtube.com/watch?v=LYEkguL9PcY
+
+### -- Week 44 to 50
+
+##### (Article) Fullstack Development Project - https://github.com/topics/fullstack-development
+##### Full Stack Projects on GitHub For Beginners - https://www.upgrad.com/blog/full-stack-projects-github-beginners/
+
+### ADDITIONAL SKILLS FOR FULL STACK WEB DEVELOPMENT
+
+##### GIT, MACHINE LEARNING, LINUX COMMAND 
+
+
+
+
