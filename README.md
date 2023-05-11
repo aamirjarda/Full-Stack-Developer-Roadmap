@@ -34,7 +34,20 @@ This is the Curriculum for "Full Stack Developer Roadmap in 12 Months"
 
 ### -- Week 6 to 10 (1 Months) - JAVASCRIPT
 
-##### 
+##### JavaScript Tutorial (Clever Programmer) - https://www.youtube.com/watch?v=lI1ae4REbFM
+##### JavaScript Code with Harry(Hindi) - https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR
+##### (Article) JavaScript - https://javascript.info/
+##### Complete JavaScript Course (Hitesh Choudhary) - https://www.youtube.com/watch?v=2md4HQNRqJA&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD
+
+### --Week 11 & 12 - JAVASCRIPT Projects 15 DAYS ATLEAST 10 Projects
+
+##### JavaScript Projects - https://www.youtube.com/watch?v=hQ9_27otvCo
+##### (Article) JavaScript Projects (FreecodeCamp) - https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+##### (Article) JavaScript Projects (InterviewBit) - https://www.interviewbit.com/blog/javascript-projects/
+##### Creating a Weather App Using HTML, CSS and JavaScript - https://www.youtube.com/watch?v=pFvWwFua6mw
+
+### --Week 13 to 17 - DSA IN JAVASCRIPT
+
 
 
 ### -- Week 18 to 24 (1.5 Months) - React & React Projects
